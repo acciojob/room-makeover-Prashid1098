@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.favorite-color
+{
+	color: blue;
+	font-weight: bold;
+}
+p
+{
+	border: 1px solid;
+	background-color: skyblue;
+	padding: 10px;
+	position: absolute;
+	border-radius: 5px;
+	box-shadow: 5px 5px gray;;
+}
